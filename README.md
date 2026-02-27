@@ -50,4 +50,4 @@ O script vai gerar um arquivo `conteudo_traduzido.md` com o conteúdo traduzido.
 Issue, PRs e sugestões são bem-vindas — especialmente exemplos de seletores para sites técnicos.
 
 ### Autor
-Projeto do DIO Bootcamp — Tradutor de Artigos Técnicos com AzureAI.
+[Bootcamp Microsoft Certification Challenge #5 - AI 102](https://www.dio.me/bootcamp/microsoft-certification-challenge-5-ai-102)
