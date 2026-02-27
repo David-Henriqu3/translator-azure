@@ -1,6 +1,6 @@
 # Tradutor de Artigos Técnicos com AzureAI
 
-Projeto criado para o DIO Bootcamp: "Tradutor de Artigos Técnicos com AzureAI".
+Projeto criado para o DIO Bootcamp AI 102: "Tradutor de Artigos Técnicos com AzureAI".
 
 Este repositório contém um pequeno utilitário em Python que extrai conteúdo de um seletor CSS em uma página web, traduz os trechos usando o serviço Azure Translator (Cognitive Services) e exporta o resultado em Markdown.
 
