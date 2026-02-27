@@ -1,6 +1,6 @@
 # Tradutor de Artigos Técnicos com AzureAI
 
-Projeto criado para o DIO Bootcamp Microsoft Certification Challenge - AI 102: "Tradutor de Artigos Técnicos com AzureAI".
+Projeto criado para o [Bootcamp Microsoft Certification Challenge #5 - AI 102](https://www.dio.me/bootcamp/microsoft-certification-challenge-5-ai-102): "Tradutor de Artigos Técnicos com AzureAI".
 
 Este repositório contém um pequeno utilitário em Python que extrai conteúdo de um seletor CSS em uma página web, traduz os trechos usando o serviço Azure Translator (Cognitive Services) e exporta o resultado em Markdown.
 
@@ -49,5 +49,3 @@ O script vai gerar um arquivo `conteudo_traduzido.md` com o conteúdo traduzido.
 ### Contribuição
 Issue, PRs e sugestões são bem-vindas — especialmente exemplos de seletores para sites técnicos.
 
-### Autor
-[Bootcamp Microsoft Certification Challenge #5 - AI 102](https://www.dio.me/bootcamp/microsoft-certification-challenge-5-ai-102)
